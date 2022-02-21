@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Maria Smirnova](https://up.htmlacademy.ru/javascript/25/user/230898).
-* Наставник: `Неизвестно`.
+* Наставник: [Peter Dvukhrechensky](https://up.htmlacademy.ru/profile/id1223515).
 
 ---
 
